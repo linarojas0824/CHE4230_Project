@@ -1,6 +1,5 @@
 # CHE4230_Project
 Advance Process Control Final Project
-
 **Data Preprocessing**
 The data processing was conducted based on prior statistical visualizations (scatter plots) and descriptive analyses (mean, median). These approaches were used to address missing values and outliers. After cleaning, the data was normalized.
 **Unsupervised Methods**
