@@ -8,15 +8,15 @@ The data processing was conducted based on prior statistical visualizations (sca
 Different combinations of dimensionality reduction and clustering techniques were used to generate labels for data classification. The Silhouette coefficient and Davies-Bouldin index were employed to qualitatively evaluate whuch methods achieved better clustering and classification results.<br>
 
   **Dimensionality Reduction:** <br>
-    - PCA
-    - TSNE
-    - ISO
-    - UMAP
+    - PCA <br>
+    - TSNE <br>
+    - ISO <br>
+    - UMAP <br>
     - Kernal PCA.<br>
 
   **Clustering:** <br>
-    - Kmeans
-    - DBSCAN
+    - Kmeans <br>
+    - DBSCAN <br>
     - HDBSCAN <br>
 
 **Supervise Methods**
