@@ -1,5 +1,6 @@
 # CHE4230_Project
 Advance Process Control Final Project
+
 **Data Preprocessing**
 The data processing was conducted based on prior statistical visualizations (scatter plots) and descriptive analyses (mean, median). These approaches were used to address missing values and outliers. After cleaning, the data was normalized.
 **Unsupervised Methods**
@@ -11,9 +12,9 @@ Different combinations of dimensionality reduction and clustering techniques wer
   - UMAP
   - Kernal PCA
 ****Clustering: ****
-    - Kmeans
-    - DBSCAN
-    - HDBSCAN
+  - Kmeans
+  - DBSCAN
+  - HDBSCAN
 **Supervise Methods**
 After generating the labels, ANN and SVM models were trained, validate and tested to evaluate their performance. Hyperparameter optimization was applied to enhance the model's performance as much as possible.
 
