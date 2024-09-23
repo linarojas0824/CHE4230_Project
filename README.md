@@ -1,6 +1,7 @@
 # CHE4230_Project
 Advance Process Control Final Project<br>
-
+The Tennessee Eastman (TE) process created by the Eastman Chemical Co. has been widely used as a benchmark process for evaluating process supervision methods. This project focuses on software development and project planning, as well as data analysis, pattern recognition, and the detection and classification of faults. <br>
+<br>
 **Data Preprocessing**
 The data processing was conducted based on prior statistical visualizations (scatter plots) and descriptive analyses (mean, median). These approaches were used to address missing values and outliers. After cleaning, the data was normalized.
 
